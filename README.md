@@ -1,16 +1,26 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador">
-
 
 ## Olá! Eu sou o Thiago Lucena
 
+<img src="https://github.com/thiagocfl/thiagocfl/assets/129323976/bfca9d0b-ec87-4ab8-b161-f8fbc01c95c4" width="300px" align="left" alt="Octacat">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
 - 🌱 Estudando Técnico em Informática e Front-end
 - 😄 Pronouns: ele/dele
+⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 <br>
-
-##
-
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
 <div>
   <a href="https://github.com/thiagocfl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagocfl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
