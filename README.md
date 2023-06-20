@@ -6,6 +6,7 @@
 
 - 🌱 Estudando Técnico em Informática e Front-end
 - 😄 Pronouns: ele/dele
+- 🎮 Apaixonado por jogos
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 <br>
