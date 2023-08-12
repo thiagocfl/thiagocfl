@@ -4,10 +4,8 @@
 <img src="https://github.com/thiagocfl/thiagocfl/assets/129323976/bfca9d0b-ec87-4ab8-b161-f8fbc01c95c4" width="300px" align="left" alt="Octacat">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-- 🌱 Estudando Técnico em Informática e Front-end
-- 😄 Pronouns: ele/dele
-- 🎮 Apaixonado por jogos
-⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Sou um estudante técnico e de desenvolvimento web apaixonado por aprender e evoluir constantemente. Tenho conhecimentos básicos em HTML, CSS e JavaScript.
+Acredito que o aprendizado contínuo é a chave para o sucesso seja qual for a área de atuação escolhida. Estou sempre em busca de novos conteúdos e cursos para expandir meus conhecimentos.
 
 <br>
 <br>
@@ -32,8 +30,7 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<!-- <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Pascal" width="35" src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.6.0/1676423977534/Microsoft.VisualStudio.Services.Icons.Default">
 </div>
 
