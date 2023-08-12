@@ -50,4 +50,7 @@ Acredito que o aprendizado contínuo é a chave para o sucesso seja qual for a �
  ➗ Licenciatura em Matemática - Faculdade de Formação de Professores de Belo Jardim <br>
  💻 Técnico em Informática - Instituto Federal de Pernambuco - IFPE (Cursando) <br>
  💻 Front-end - Programa One Next Education - Oracle + Alura (Cursando) <br>
+ 💻 UX Design - Coursera + CIEE - (Cursando) <br>
+ 💻 Suporte em TI - Coursera + Bettha - (Cursando) <br>
+  
 </div>
