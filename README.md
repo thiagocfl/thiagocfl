@@ -7,6 +7,8 @@
 Sou um estudante técnico e de desenvolvimento web apaixonado por aprender e evoluir constantemente. Tenho conhecimentos básicos em HTML, CSS e JavaScript.
 Acredito que o aprendizado contínuo é a chave para o sucesso seja qual for a área de atuação escolhida. Estou sempre em busca de novos conteúdos e cursos para expandir meus conhecimentos.
 
+Além da busca pelo conhecimento, não sou nerd o tempo todo, também sou apaixonado por games, séries e filmes 😁.
+
 <br>
 <br>
 <br>
