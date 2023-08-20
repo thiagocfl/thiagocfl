@@ -29,7 +29,7 @@ Além da busca pelo conhecimento, não sou nerd o tempo todo, também sou apaixo
   <img align="center" alt="Pascal" width="35" src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.6.0/1676423977534/Microsoft.VisualStudio.Services.Icons.Default">
 </div>
 
-<br><br>
+<br>
 
 ## 🎓 Formação Acadêmica 🎓
 
