@@ -10,7 +10,9 @@ Acredito que o aprendizado contínuo é a chave para o sucesso seja qual for a �
 Além da busca pelo conhecimento, não sou nerd o tempo todo, também sou apaixonado por games, séries e filmes 😁.
 
 <br>
-<br>⠀⠀⠀
+<br>⠀
+<br>
+<br>⠀⠀
 
 <!--
 <div>
