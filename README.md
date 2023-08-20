@@ -36,6 +36,8 @@ Além da busca pelo conhecimento, não sou nerd o tempo todo, também sou apaixo
  💻 Front-end - Programa One Next Education - Oracle + Alura (Cursando) <br>
 </div>
 
+<br><br>
+
 ## Contato
 
 <div>
