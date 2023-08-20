@@ -29,7 +29,14 @@ Além da busca pelo conhecimento, não sou nerd o tempo todo, também sou apaixo
   <img align="center" alt="Pascal" width="35" src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.6.0/1676423977534/Microsoft.VisualStudio.Services.Icons.Default">
 </div>
 
-##
+<div>
+  <h2>🎓 Formação Acadêmica 🎓</h2> 
+ ➗ Licenciatura em Matemática - Faculdade de Formação de Professores de Belo Jardim <br>
+ 💻 Técnico em Informática - Instituto Federal de Pernambuco - IFPE (Cursando) <br>
+ 💻 Front-end - Programa One Next Education - Oracle + Alura (Cursando) <br>
+</div>
+
+## Contato
 
 <div>
 <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
@@ -38,12 +45,4 @@ Além da busca pelo conhecimento, não sou nerd o tempo todo, também sou apaixo
   <a href="https://discord.gg/MQW5Be7y" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thiagof.lucena33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white?logoWidth=200px" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-lucena-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-<div>
-  <h2>🎓 Formação Acadêmica 🎓</h2> 
- ➗ Licenciatura em Matemática - Faculdade de Formação de Professores de Belo Jardim <br>
- 💻 Técnico em Informática - Instituto Federal de Pernambuco - IFPE (Cursando) <br>
- 💻 Front-end - Programa One Next Education - Oracle + Alura (Cursando) <br>
-  
 </div>
