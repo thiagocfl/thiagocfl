@@ -33,12 +33,9 @@ Além da busca pelo conhecimento, não sou nerd o tempo todo, também sou apaixo
 
 ## 🎓 Formação Acadêmica 🎓
 
-<div>
-  <h2>🎓 Formação Acadêmica 🎓</h2> 
- ➗ Licenciatura em Matemática - Faculdade de Formação de Professores de Belo Jardim <br>
- 💻 Técnico em Informática - Instituto Federal de Pernambuco - IFPE (Cursando) <br>
- 💻 Front-end - Programa One Next Education - Oracle + Alura (Cursando) <br>
-</div>
+- ➗ Licenciatura em Matemática - Faculdade de Formação de Professores de Belo Jardim <br>
+- 💻 Técnico em Informática - Instituto Federal de Pernambuco - IFPE (Cursando) <br>
+- 💻 Front-end - Programa One Next Education - Oracle + Alura (Cursando) <br>
 
 <br><br>
 
