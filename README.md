@@ -9,10 +9,10 @@ Acredito que o aprendizado contínuo é a chave para o sucesso seja qual for a �
 
 Além da busca pelo conhecimento, não sou nerd o tempo todo, também sou apaixonado por games, séries e filmes 😁.
 
-<br>
-<br>⠀
-<br>
-<br>⠀⠀
+<br><br>⠀
+<br><br>⠀
+⠀
+## Linguagens que estou aprendendo
 
 <!--
 <div>
@@ -28,6 +28,10 @@ Além da busca pelo conhecimento, não sou nerd o tempo todo, também sou apaixo
 <!-- <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Pascal" width="35" src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.6.0/1676423977534/Microsoft.VisualStudio.Services.Icons.Default">
 </div>
+
+<br><br>
+
+## Formação Acadêmica
 
 <div>
   <h2>🎓 Formação Acadêmica 🎓</h2> 
