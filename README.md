@@ -37,7 +37,7 @@ Além da busca pelo conhecimento, não sou nerd o tempo todo, também sou apaixo
 - 💻 Técnico em Informática - Instituto Federal de Pernambuco - IFPE (Cursando) <br>
 - 💻 Front-end - Programa One Next Education - Oracle + Alura (Cursando) <br>
 
-<br><br>
+<br>
 
 ## Contato
 
