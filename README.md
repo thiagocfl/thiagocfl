@@ -31,7 +31,7 @@ Além da busca pelo conhecimento, não sou nerd o tempo todo, também sou apaixo
 
 <br><br>
 
-## Formação Acadêmica
+## 🎓 Formação Acadêmica 🎓
 
 <div>
   <h2>🎓 Formação Acadêmica 🎓</h2> 
