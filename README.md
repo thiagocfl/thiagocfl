@@ -1,7 +1,7 @@
 
 ## Olá! Me chamo Thiago Lucena
 
-<img src="https://github.com/thiagocfl/thiagocfl/assets/129323976/bfca9d0b-ec87-4ab8-b161-f8fbc01c95c4" height="590em" align="right" alt="Octacat">
+<img src="https://github.com/thiagocfl/thiagocfl/assets/129323976/bfca9d0b-ec87-4ab8-b161-f8fbc01c95c4" width="300px" align="left" alt="Octacat">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 Sou um estudante técnico e de desenvolvimento web apaixonado por aprender e evoluir constantemente. Tenho conhecimentos básicos em HTML, CSS e JavaScript.
